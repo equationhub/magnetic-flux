@@ -185,7 +185,7 @@ body {
   scrollbar-width: none; /* Customize the scroll bar width */
   scrollbar-color: transparent transparent; /* Hide the scroll bar color */
   background: rgba(0, 0, 0, 0.5);
-  padding-left: 7px;
+  padding-left: 25px;
   text-align: center; /* Justify the text within the container */
 }
 
